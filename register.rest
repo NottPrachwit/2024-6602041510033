@@ -1,0 +1,8 @@
+POST http://localhost:8080/api/auth/local/register
+Content-Type: application/json
+
+{
+    "username" : "prachwitxzc",
+    "email" : "s6602041510033@email.kmutnb.ac.thxc",
+    "password" : "0931382798Mick"
+}
